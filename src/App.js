@@ -10,11 +10,11 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <Main />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
