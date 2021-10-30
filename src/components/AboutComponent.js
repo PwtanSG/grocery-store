@@ -20,7 +20,7 @@ const About = () => {
                         <img
                             alt="our first store"
                             className=" img-fluid rounded shadow"
-                            src="/images/firststore1.png"
+                            src="/grocery-store/images/firststore1.png"
                         ></img>
 
                     </Col>
@@ -38,7 +38,7 @@ const About = () => {
                         <img
                             alt="our mission"
                             className=" img-fluid rounded shadow"
-                            src="/images/grocery5.png"
+                            src="/grocery-store/images/grocery5.png"
                         ></img>
 
                     </Col>
@@ -54,7 +54,7 @@ const About = () => {
                         <img
                             alt="our award"
                             className=" img-fluid rounded shadow"
-                            src="/images/award.png"
+                            src="/grocery-store/images/award.png"
                         ></img>
 
                     </Col>

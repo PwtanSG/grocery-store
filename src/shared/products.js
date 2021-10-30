@@ -3,7 +3,7 @@ export const PRODUCTS =
     {
       id: 1,
       name: 'Avocado',
-      image: '/images/avocado.png',
+      image: '/grocery-store/images/avocado.png',
       category: 'Fruits',
       label: 'Hot',
       price: 0.99,
@@ -13,7 +13,7 @@ export const PRODUCTS =
     {
       id: 2,
       name: 'Dragon Fruit',
-      image: '/images/dragonfruit.png',
+      image: '/grocery-store/images/dragonfruit.png',
       category: 'Fruits',
       label: '',
       price: 5.99,
@@ -23,7 +23,7 @@ export const PRODUCTS =
     {
       id: 3,
       name: 'Orange',
-      image: '/images/orange.png',
+      image: '/grocery-store/images/orange.png',
       category: 'Fruits',
       label: 'Featured',
       price: 3.99,
@@ -33,7 +33,7 @@ export const PRODUCTS =
     {
       id: 4,
       name: 'Apple',
-      image: '/images/redapple.png',
+      image: '/grocery-store/images/redapple.png',
       category: 'Fruits',
       label: 'New',
       price: 1.99,
@@ -43,7 +43,7 @@ export const PRODUCTS =
     {
       id: 5,
       name: 'Tomatoes',
-      image: '/images/tomatoes.png',
+      image: '/grocery-store/images/tomatoes.png',
       category: 'Vegetables',
       label: 'Offer',
       price: 2.99,
@@ -53,7 +53,7 @@ export const PRODUCTS =
     {
       id: 6,
       name: 'Cai Xin',
-      image: '/images/caixin.png',
+      image: '/grocery-store/images/caixin.png',
       category: 'Vegetables',
       label: 'Hot',
       price: 1.50,
@@ -63,7 +63,7 @@ export const PRODUCTS =
     {
       id: 7,
       name: 'Cabbage',
-      image: '/images/purplecabbage.png',
+      image: '/grocery-store/images/purplecabbage.png',
       category: 'Vegetables',
       label: '',
       price: 5.99,
@@ -73,7 +73,7 @@ export const PRODUCTS =
     {
       id: 8,
       name: 'Lettuce',
-      image: '/images/lettuce.png',
+      image: '/grocery-store/images/lettuce.png',
       category: 'Vegetables',
       label: 'Offer',
       price: 0.99,
@@ -83,7 +83,7 @@ export const PRODUCTS =
     {
       id: 9,
       name: 'Salmon',
-      image: '/images/salmon.png',
+      image: '/grocery-store/images/salmon.png',
       category: 'Seafood',
       label: 'Hot',
       price: 2.99,
@@ -93,7 +93,7 @@ export const PRODUCTS =
     {
       id: 10,
       name: 'Prawns',
-      image: '/images/prawns.png',
+      image: '/grocery-store/images/prawns.png',
       category: 'Seafood',
       label: '',
       price: 9.99,
@@ -103,7 +103,7 @@ export const PRODUCTS =
     {
       id: 11,
       name: 'Golden Promfet',
-      image: '/images/promfet.png',
+      image: '/grocery-store/images/promfet.png',
       category: 'Seafood',
       label: '',
       price: 12.99,
@@ -113,7 +113,7 @@ export const PRODUCTS =
     {
       id: 12,
       name: 'Kunning Fish',
-      image: '/images/kunning.png',
+      image: '/grocery-store/images/kunning.png',
       category: 'Seafood',
       label: 'Offer',
       price: 20.99,
@@ -123,7 +123,7 @@ export const PRODUCTS =
     {
       id: 13,
       name: 'Pork belly',
-      image: '/images/porkbelly.png',
+      image: '/grocery-store/images/porkbelly.png',
       category: 'Meat',
       label: 'Offer',
       price: 2.99,
@@ -133,7 +133,7 @@ export const PRODUCTS =
     {
       id: 14,
       name: 'Beef',
-      image: '/images/beef.png',
+      image: '/grocery-store/images/beef.png',
       category: 'Meat',
       label: 'New',
       price: 3.99,
@@ -143,7 +143,7 @@ export const PRODUCTS =
     {
       id: 15,
       name: 'Fresh Chicken',
-      image: '/images/chicken.png',
+      image: '/grocery-store/images/chicken.png',
       category: 'Meat',
       label: 'New',
       price: 3.99,
@@ -153,7 +153,7 @@ export const PRODUCTS =
     {
       id: 16,
       name: 'Chicken Drumstick',
-      image: '/images/chickendrumstick.png',
+      image: '/grocery-store/images/chickendrumstick.png',
       category: 'Meat',
       label: '',
       price: 13.99,
