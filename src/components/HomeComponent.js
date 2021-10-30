@@ -40,27 +40,27 @@ function Home(props) {
     
     const items = [
         {
-            src: '/images/grocery6.png',
+            src: '/grocery-store/images/grocery6.png',
             altText: 'Shop with us now!',
             caption: 'Wide variety of grocery items available. '
         },
         {
-            src: '/images/grocery2.png',
+            src: '/grocery-store/images/grocery2.png',
             altText: 'Freshness guaranteed',
             caption: 'We take great pride in the quality of our products.'
         },
         {
-            src: '/images/freedelivery.png',
+            src: '/grocery-store/images/freedelivery.png',
             altText: 'Delivery to your doorstep',
             caption: 'Free delivery for purchase above $20!'
         },
         {
-            src: '/images/store.png',
+            src: '/grocery-store/images/store.png',
             altText: 'Shop at our stores',
             caption: 'Shop at our convieniently located stores.'
         },
         {
-            src: '/images/online.png',
+            src: '/grocery-store/images/online.png',
             altText: 'Order through our mobile app',
             caption: 'No more queuing at checkout cashier. Order using our mobile app now.'
         }
