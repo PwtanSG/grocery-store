@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/grocery-store/static/css/main.8be0723a.chunk.css",
-    "main.js": "/grocery-store/static/js/main.534a00d8.chunk.js",
-    "main.js.map": "/grocery-store/static/js/main.534a00d8.chunk.js.map",
+    "main.js": "/grocery-store/static/js/main.09854b16.chunk.js",
+    "main.js.map": "/grocery-store/static/js/main.09854b16.chunk.js.map",
     "runtime-main.js": "/grocery-store/static/js/runtime-main.75244e58.js",
     "runtime-main.js.map": "/grocery-store/static/js/runtime-main.75244e58.js.map",
     "static/css/2.4d0025ca.chunk.css": "/grocery-store/static/css/2.4d0025ca.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4d0025ca.chunk.css",
     "static/js/2.4a921f8a.chunk.js",
     "static/css/main.8be0723a.chunk.css",
-    "static/js/main.534a00d8.chunk.js"
+    "static/js/main.09854b16.chunk.js"
   ]
 }
