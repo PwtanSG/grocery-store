@@ -1,7 +1,7 @@
 {
   "name": "grocery-app",
   "version": "0.1.0",
-  "homepage": "https://pwtansg.github.io/",
+  "homepage": "https://pwtansg.github.io/grocery-store",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
