@@ -25,7 +25,7 @@ const StoreLocation = () => {
                 <h5>Map of our Location</h5>
                 <StoreMap
                     isMarkerShown
-                    googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-zNHnUc5GoPIHriflvM8mNxImltDtVsU&v=3.exp&libraries=geometry,drawing,places"
+                    googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-zNHnUc5GoPIHriflvM8mNxImltDt&v=3.exp&libraries=geometry,drawing,places"
                     loadingElement={<div style={{ height: `100%` }} />}
                     containerElement={<div style={{ height: `400px` }} />}
                     mapElement={<div style={{ height: `100%` }} />}

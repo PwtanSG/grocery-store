@@ -98,7 +98,7 @@ class Header extends Component {
         <Navbar dark color="primary" expand="lg">
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
-            <NavbarBrand href="/"><Media object src="/grocery-store/images/co-logo-trans.png" alt="daily grocery" />Daily Grocery</NavbarBrand>
+            <NavbarBrand href="#home"><Media object src="/grocery-store/images/co-logo-trans.png" alt="daily grocery" />Daily Grocery</NavbarBrand>
             <Collapse isOpen={this.state.isNavOpen} navbar>
               <Nav navbar>
                 <NavItem>
